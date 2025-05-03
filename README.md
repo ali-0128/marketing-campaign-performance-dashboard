@@ -27,4 +27,4 @@ This Power BI dashboard provides detailed insights into the performance of marke
 - **Engagement and Conversion Comparison**
 
 ## Dashboard Preview
-![Dashboard Overview](screenshots/overview.png)
+![Dashboard Overview](Marketing-Campaign.png)
