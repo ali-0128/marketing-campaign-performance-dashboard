@@ -15,7 +15,6 @@ This Power BI dashboard provides detailed insights into the performance of marke
 
 ## Tools Used
 - Power BI (DAX, Power Query)
-- Excel / CSV (as data source)
 
 ## Key Dashboard Elements
 - **Campaign Performance Summary by Category**
