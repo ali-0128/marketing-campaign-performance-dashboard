@@ -9,13 +9,6 @@ This Power BI dashboard provides detailed insights into the performance of marke
 - Track key metrics such as ROI 
 - Visualize trends in user engagement and conversion
 
-## Files Included
-- `Marketing-Campaign-Dashboard.pbix
-- `Marketing-Campaign-Data.csv`
-
-## Tools Used
-- Power BI (DAX, Power Query)
-
 ## Key Dashboard Elements
 - **Campaign Performance Summary by Category**
 - **Cost vs Revenue per Campaign Type**
