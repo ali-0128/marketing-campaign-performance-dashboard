@@ -25,5 +25,5 @@ The analysis shifted the focus from merely reporting data to driving immediate, 
 - Campaign Performance Table: Detailed breakdown of key metrics (CPM, CPL, CPO, CTR) for every individual campaign.
 ---
 ## Dashboard Preview
-![Dashboard Overview](Marketing_Compaign_Dashboard.png)
+![Dashboard Overview](marketing_campaign_dashboard.png)
 
